@@ -1,2 +1,2 @@
 # coupons
-site
+My first Github repo
